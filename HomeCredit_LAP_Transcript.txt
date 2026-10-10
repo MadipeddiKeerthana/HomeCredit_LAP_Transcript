@@ -1,0 +1,37 @@
+user: Hello? 
+agent: Hello, may I speak with the account holder?
+user: Yes. 
+agent: Thank you for confirming. I’m calling on behalf of Home Credit about a Loan Against Property offer for existing customers, up to seventy-five lakh rupees, subject to eligibility checks. Would you be comfortable spending a couple of minutes on a preliminary check?
+user: Yes. I'm available. My name is Rahul, and I'm in interested in the loan. 
+agent: What type 
+user: (unintelligible audio)
+agent: of property would you like to use for the loan: residential, commercial, or industrial?
+agent: Could you please confirm whether the property is residential, commercial, or industrial?
+user: Commercial. 
+agent: Is the commercial property solely owned by you, or jointly owned with someone else?
+user: Summonance. 
+agent: Could you confirm if you mean the property is solely owned by you, or jointly owned with 
+user: Yeah. It 
+agent: someone else?
+user: is someone else. 
+agent: Is it jointly owned with that other person?
+user: Yeah. 
+agent: Are the original property documents currently available for verification?
+user: Yeah. 
+agent: Approximately how much would you like to borrow against the property?
+user: I I don't know. 
+agent: No problem. Do you have a rough amount in mind, even an estimate in lakhs?
+user: Could get this. 
+agent: Could you tell me roughly how much you’d like to borrow, in lakhs?
+user: Ninety five minutes. 
+agent: Did you mean ninety-five lakh rupees as the loan amount?
+user: Seventy five lakhs. 
+agent: Are you salaried or self-employed, and is your income received through a bank account or in cash?
+user: Yeah. I'm self employed. 
+agent: Is your income received through a bank account or in cash?
+user: Banker count. 
+agent: Just to confirm, is your income received through a bank account?
+user: Bank account. 
+agent: What would you estimate the commercial property's current market value to be?
+user: To know, I don't know. 
+agent: A rough estimate is fine. About how much is the property worth, in lakhs?
